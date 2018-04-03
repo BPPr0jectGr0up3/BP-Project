@@ -219,3 +219,8 @@ input	{
    margin: 50px;
    float: right;
 }
+
+#logo	{
+	width: 75px;
+	height: 75px;
+}
