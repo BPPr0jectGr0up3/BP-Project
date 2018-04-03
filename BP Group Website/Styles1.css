@@ -223,3 +223,12 @@ input	{
 #logo	{
 width: 25%
 }
+
+#time	{
+	float: right;
+	margin-right: 10%;
+	line-height: 1.35;
+	color: rgb("0,0,128");
+	margin-top: .5%;
+	font-size: 16px;
+}
