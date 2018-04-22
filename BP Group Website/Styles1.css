@@ -1,7 +1,7 @@
 
 body {
 	background-image: url(smoke1.jpg);
-	background-repeat: no-repeat;
+	background-repeat: repeat;
     background-size: 100% auto;
     background-position: 0px 100px;
 	font-family: georgia;
