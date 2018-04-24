@@ -194,16 +194,17 @@ footer {
 	bottom: 0;
 	font-size: 15px;
 }
+
 form	{
 	border: 1px solid green;
 	padding: 50px;
-	margin-left:35%;
-	margin-bottom: 100px;
+	margin-right: 12%;
 	font-size: 20px;
 	display: block;
 	width: 450px;
+	float: right;
+    
 }
-
 input	{
 	border: 2px solid green;
 }
