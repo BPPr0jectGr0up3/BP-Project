@@ -249,3 +249,8 @@ width: 30%
 	margin-top: 20%;
 	padding-left: 5%;
 }
+h1.service1 { 
+	color: rgb(0,100,0);
+	font-family: georgia;
+	font-size: 35px;
+}
