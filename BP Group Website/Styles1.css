@@ -229,11 +229,12 @@ width: 30%
 #time	{
 	float: right;
 	margin-right: 10%;
-	line-height: 1.1;
+	line-height: 1.25;
 	color: rgb("0,0,128");
 	margin-top: 0%;
 	font-size: 18px;
 	font-weight: bold;
+	padding: .2%;
 }
 #napa1 {
 	margin-bottom: 17%;
